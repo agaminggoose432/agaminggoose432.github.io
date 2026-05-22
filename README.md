@@ -1,1 +1,2 @@
-# agaminggoose432.github.io
+Hello
+Welcome to my website :)
